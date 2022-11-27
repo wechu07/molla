@@ -5,8 +5,9 @@
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "@mui/icons-material": "^5.10.14",
-    "@mui/material": "^5.10.14",
+    "@mui/codemod": "^5.10.14",
+    "@mui/icons-material": "^5.10.15",
+    "@mui/material": "^5.10.15",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
@@ -42,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-import": "^1.13.5",
+    "babel-plugin-direct-import": "^1.0.0",
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.2.1"
   }
